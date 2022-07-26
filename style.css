@@ -1,0 +1,9 @@
+.background-gradient{
+    background: linear-gradient(90deg,blue, rgb(188, 18, 188));
+}
+.download{
+    background: url(./img/background.png) no-repeat center;
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode: overlay;
+}
